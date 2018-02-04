@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Command line suite" duration-ms="31" started-at="2018-01-12T06:39:16Z" finished-at="2018-01-12T06:39:16Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="31" started-at="2018-01-12T06:39:16Z" finished-at="2018-01-12T06:39:16Z">
+      <class name="com.automation.framework.TestApp.NewTest">
+        <test-method status="PASS" signature="beforeSuite()[pri:0, instance:com.automation.framework.TestApp.NewTest@1f792cf]" name="beforeSuite" is-config="true" duration-ms="10" started-at="2018-01-11T22:39:16Z" finished-at="2018-01-11T22:39:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:com.automation.framework.TestApp.NewTest@1f792cf]" name="beforeTest" is-config="true" duration-ms="0" started-at="2018-01-11T22:39:16Z" finished-at="2018-01-11T22:39:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:com.automation.framework.TestApp.NewTest@1f792cf]" name="beforeClass" is-config="true" duration-ms="0" started-at="2018-01-11T22:39:16Z" finished-at="2018-01-11T22:39:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:com.automation.framework.TestApp.NewTest@1f792cf]" name="afterClass" is-config="true" duration-ms="0" started-at="2018-01-11T22:39:16Z" finished-at="2018-01-11T22:39:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.automation.framework.TestApp.NewTest@1f792cf]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2018-01-11T22:39:16Z" finished-at="2018-01-11T22:39:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.automation.framework.TestApp.NewTest@1f792cf]" name="afterMethod" is-config="true" duration-ms="0" started-at="2018-01-11T22:39:16Z" finished-at="2018-01-11T22:39:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="f(java.lang.Integer, java.lang.String)[pri:0, instance:com.automation.framework.TestApp.NewTest@1f792cf]" name="f" duration-ms="0" started-at="2018-01-11T22:39:16Z" data-provider="dp" finished-at="2018-01-11T22:39:16Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[1]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[a]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:com.automation.framework.TestApp.NewTest@1f792cf]" name="afterTest" is-config="true" duration-ms="0" started-at="2018-01-11T22:39:16Z" finished-at="2018-01-11T22:39:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+        <test-method status="PASS" signature="afterSuite()[pri:0, instance:com.automation.framework.TestApp.NewTest@1f792cf]" name="afterSuite" is-config="true" duration-ms="0" started-at="2018-01-11T22:39:16Z" finished-at="2018-01-11T22:39:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- com.automation.framework.TestApp.NewTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>
